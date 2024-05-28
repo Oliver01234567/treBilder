@@ -1,0 +1,12 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60;
+    color: black;
+    padding: 50px;
+    margin: 20px;
+    background-color: bisque;
+    text-decoration: underline;
+    border: 2px solid black;
+}
